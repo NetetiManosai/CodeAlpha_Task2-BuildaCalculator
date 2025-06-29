@@ -1,4 +1,4 @@
-# 🔢 CodeAlpha - Calculator Project
+# 🔢 CodeAlpha_Task2- Calculator Project
 
 Welcome to my submission for **Task 2: Build a Calculator** as part of the **Frontend Development Internship at CodeAlpha**
 
